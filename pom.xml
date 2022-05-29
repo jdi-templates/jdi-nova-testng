@@ -43,12 +43,6 @@
                 </exclusion>
             </exclusions>
         </dependency>
-
-        <dependency>
-            <groupId>io.qameta.allure</groupId>
-            <artifactId>allure-testng</artifactId>
-            <version>${allure.testng}</version>
-        </dependency>
     </dependencies>
 
     <build>
