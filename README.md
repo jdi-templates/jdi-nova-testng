@@ -6,8 +6,6 @@ It has everything you need already in place like: logging setup, reporting setup
 1. Rename namespace from `com.jdiai` to your project (site/application) name
 2. Setup your test project using TestConfig.java (or use default settings) (See [Test Configurations](#test-configurations))
 3. Add your tests to src/test/java/.../tests (See [Test Examples](#test-examples))
-
-If it is required
 4. You can specify your Page Objects in src/java/.../site folder (or rename the folder) (See [Page Objects](#page-objects))
 5. You can use Site class to list all your page objects in one place as singleton and init them once (See [Application class](#application-class))
 6. We recommend to use business entities in your tests. Place entity classes to src/java/.../entities and create data instances in test/java/.../test/data (See [Data class](#data-class))
