@@ -1,0 +1,11 @@
+*.iml
+.idea/
+target/
+*.zip
+*.exe
+.logs/
+*.xlsx
+*.log
+.DS_Store
+build/
+.allure/
